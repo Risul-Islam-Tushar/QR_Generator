@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(134, 167, 137);
+}
+
+.container {
+  width: 350px;
+  margin: 10% auto; /* auto for horizontal centering */
+  background-color: rgb(221, 245, 219);
+  padding: 20px 22px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+input {
+  width: 80%;
+  outline: none;
+  border: 1px solid;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 80%;
+  border-radius: 20px;
+  outline: none;
+  border: none;
+  background-color: darkslateblue;
+  color: aliceblue;
+  cursor: pointer;
+  padding: 5px;
+  margin-bottom: 10px;
+}
